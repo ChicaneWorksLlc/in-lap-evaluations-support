@@ -8,8 +8,8 @@ assignees: ''
 
 ### 🚦 Current Status
 * **Status:** 🟡 Investigating <!-- Options: 🔴 Blocked | 🟡 Investigating | 🟢 Resolved -->
-* **Severity:** 🔴 High <!-- Options: 🔴 High (Task blocked) | 🟠 Medium (Workaround exists) | 🟡 Low (Minor annoyance) -->
-* **Next Step:** Awaiting user to try hard refresh and report back.
+* **Severity:** 🔴 Sev 2 <!-- Options: 🟣 Sev 1 (Outage) | 🔴 Sev 2 (Core Blocked) | 🟠 Sev 3 (Workaround) | 🟡 Sev 4 (Minor) | 🔵 Sev 5 (Enhancement) -->
+* **Next Step:** <!-- What is the next step? -->
 
 ---
 
