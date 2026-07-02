@@ -7,18 +7,21 @@ assignees: ''
 ---
 
 ### 🚦 Current Status
-* **Status:** 🟡 Investigating <!-- Options: 🔴 Blocked | 🟡 Investigating | 🟢 Resolved -->
-* **Severity:** 🔴 Sev 2 <!-- Options: 🟣 Sev 1 (Outage) | 🔴 Sev 2 (Core Blocked) | 🟠 Sev 3 (Workaround) | 🟡 Sev 4 (Minor) | 🔵 Sev 5 (Enhancement) -->
+* **Status:** <!-- Options: 🔴 Blocked | 🟡 Investigating | 🟢 Resolved -->
+* **Severity:** <!-- Please reference severity matrix. Options: 🟣 Sev 1 (Outage) | 🔴 Sev 2 (Core Blocked) | 🟠 Sev 3 (Workaround) | 🟡 Sev 4 (Minor) | 🔵 Sev 5 (Enhancement) -->
 * **Next Step:** <!-- What is the next step? -->
 
 ---
 
 ### 📝 Issue Summary
-**Reported By:** [User First Name / Initial]
+**Reported By:** [User First Name / Initial]  
 **Impact:** [e.g., Cannot submit student review, unable to log in, etc.]
 
 **What is happening:**
-> "Paste the core of the user's email or description here so they can see you captured their exact problem."
+<!-- Paste the core of the user's email or description here so they can see you captured their exact problem. -->
+
+**Steps to reproduce:**
+<!-- How to reproduce the issue, or the steps that led to the issue arising -->
 
 ---
 
